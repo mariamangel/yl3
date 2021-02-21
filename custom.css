@@ -1,0 +1,86 @@
+.lnr {
+    display: inline-block;
+    fill: currentColor;
+    width: 1em;
+    height: 1em;
+    vertical-align: -0.05em;
+    stroke-width: 2;
+}
+
+.lnr-cart {
+    width: 1.5em;
+    height: 1.5em;
+}
+
+.lnr-magnifier {
+    color: #000000;
+}
+
+.navbar-nav li {
+    margin-right: 3em;
+}
+
+section {
+    margin-top: 40px;
+}
+
+.h {
+    text-align: center;
+}
+
+.card-body {
+    align-content: center;
+}
+
+footer {
+    margin-top: 60px;
+    padding: 5em;
+}
+.fa {
+    padding: 10px;
+    font-size: 40px;
+    width: 40px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+.fa-youtube {
+    background: #bb0000;
+    color: white;
+}
+.fa-instagram {
+    background: #125688;
+    color: white;
+}
+.fa-pinterest {
+    background: #cb2027;
+    color: white;
+}
+.carousel-inner img {
+    width: 100%;
+    margin: auto;
+}
+.carousel-inner{
+    width: 100%;
+}
+#carousel{
+    width: 50%; /* for example */
+    margin: auto;
+}
+
+.carousel-inner > img,
+.carousel-inner > a > img{
+    width: 100%; /* use this, or not */
+    margin: auto;
+}
+
+
+
